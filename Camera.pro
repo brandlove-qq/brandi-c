@@ -23,7 +23,7 @@ SOURCES += \
 HEADERS += camera.h\
     ../../include/concurrentqueue.h \
     ../../include/icameramodule.h \
-    ../../include/qzskjdatastream.hpp \
+    ../../include/datastream.hpp \
         camera_global.h \
     ../../include/er_types.h \
 
