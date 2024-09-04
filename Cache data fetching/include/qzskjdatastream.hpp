@@ -1,5 +1,5 @@
-﻿#ifndef QzskjDataStream_H
-#define QzskjDataStream_H
+﻿#ifndef DataStream_H
+#define DataStream_H
 
 #include <cstring>
 #include <functional>
@@ -727,4 +727,4 @@ private:
     unsigned int    m_reservedSize{0};          //预留空间大小，一般为m_dataLen*2
 };
 
-#endif // QzskjDataStream_H
+#endif // DataStream_H
