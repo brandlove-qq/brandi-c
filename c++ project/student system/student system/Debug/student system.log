@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/8/1 20:58:57。
+     1>项目“E:\c++\student system\student system\student system.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\student system.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt operat.c
+         operat.c
+     1>e:\c++\student system\student system\operat.c(6): warning C4013: “malloc”未定义；假设外部返回 int
+     1>e:\c++\student system\student system\operat.c(16): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\c++\student system\student system\operat.c(17): error C2065: “pnew”: 未声明的标识符
+     1>e:\c++\student system\student system\operat.c(17): warning C4047: “=”:“int”与“taglink *”的间接级别不同
+     1>e:\c++\student system\student system\operat.c(18): error C2065: “pnew”: 未声明的标识符
+     1>e:\c++\student system\student system\operat.c(18): error C2223: “->pnext”的左侧必须指向结构/联合
+     1>e:\c++\student system\student system\operat.c(22): warning C4013: “strcmp”未定义；假设外部返回 int
+     1>e:\c++\student system\student system\operat.c(25): error C2065: “pnew”: 未声明的标识符
+     1>e:\c++\student system\student system\operat.c(25): error C2223: “->student”的左侧必须指向结构/联合
+     1>e:\c++\student system\student system\operat.c(25): error C2198: “student_init”: 用于调用的参数太少
+     1>e:\c++\student system\student system\operat.c(27): error C2065: “pnew”: 未声明的标识符
+     1>e:\c++\student system\student system\operat.c(27): error C2223: “->student”的左侧必须指向结构/联合
+     1>e:\c++\student system\student system\operat.c(37): error C2065: “pnew”: 未声明的标识符
+     1>e:\c++\student system\student system\operat.c(37): error C2223: “->pnext”的左侧必须指向结构/联合
+     1>e:\c++\student system\student system\operat.c(38): error C2065: “pnew”: 未声明的标识符
+     1>e:\c++\student system\student system\operat.c(38): warning C4047: “=”:“taglink *”与“int”的间接级别不同
+     1>e:\c++\student system\student system\operat.c(97): warning C4013: “free”未定义；假设外部返回 int
+     1>已完成生成项目“E:\c++\student system\student system\student system.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.64
